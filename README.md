@@ -1,2 +1,0 @@
-# jasonsparks.me
-personal website
