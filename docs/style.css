@@ -1,0 +1,30 @@
+/** 
+*
+* Sample Comment 
+*
+**/
+
+body {
+    background-color: #000;
+    color: green;
+    font-family: monospace;
+}
+
+#navbar {
+    position: fixed:
+    top: 0px;
+    left: 0px;
+}
+
+.cardContainer {
+    width: 350px;
+    background-color: #ccc;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding: 4px;
+}
+
+.cardContent {
+
+}
